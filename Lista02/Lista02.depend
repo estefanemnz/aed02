@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684604859 source:c:\users\jonas\documents\aed02\lista02\insercao.c
+	<stdio.h>
+	<stdlib.h>
+
+1684604421 source:c:\users\jonas\documents\aed02\lista02\selecao.c
+
+1684604752 source:c:\users\jonas\documents\aed02\lista02\bolha.c
+	<stdio.h>
+	<stdlib.h>
+
