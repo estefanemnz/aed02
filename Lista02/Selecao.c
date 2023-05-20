@@ -17,6 +17,7 @@ void selectionSort(int array[], int size) {
     }
 }
 
+
 int main03() {
     int size, i;
     printf("Digite o tamanho do array: ");
