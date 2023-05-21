@@ -3,9 +3,19 @@
 	<stdio.h>
 	<stdlib.h>
 
-1684604421 source:c:\users\jonas\documents\aed02\lista02\selecao.c
+1684605567 source:c:\users\jonas\documents\aed02\lista02\selecao.c
+	<stdio.h>
+	<stdlib.h>
 
 1684604752 source:c:\users\jonas\documents\aed02\lista02\bolha.c
+	<stdio.h>
+	<stdlib.h>
+
+1684646307 source:c:\users\jonas\documents\aed02\lista02\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+
+1684646375 source:c:\users\jonas\documents\aed02\lista02\mergesort.c
 	<stdio.h>
 	<stdlib.h>
 
