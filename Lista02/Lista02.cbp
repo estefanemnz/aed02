@@ -37,7 +37,16 @@
 		<Unit filename="Insercao.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Mergesort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Quicksort.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Selecao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
